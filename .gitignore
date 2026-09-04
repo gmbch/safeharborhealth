@@ -1,0 +1,15 @@
+.env*
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+cdk.out/
+.cdk.staging/
+*.csv
+*.xlsx
+*.pdf
+*.ipynb
+*.gguf
+*.exe
+dist/
+build/
